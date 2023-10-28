@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body {
+  background-color: #213547;
+
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app::-webkit-scrollbar {
+  width: 5px;
+}
+
+.app::-webkit-scrollbar-thumb {
+  background-color: #213547;
+  outline: none;
+  border-radius: 10px;
+}
+
+.app {
+  max-height: 500px;
+  overflow-y: auto;
+  min-width: 500px;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px #314556 inset;
+  background-color: #213547;
+}
+
+.entryContainer {
+  position: relative;
+}
+
+.entryHeader {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.iconsContainer {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  gap: 4px;
+}
