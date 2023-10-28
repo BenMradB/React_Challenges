@@ -3,7 +3,7 @@
 ## Demo
 
 ### The UI without any expanded folder
-![App Screenshot]([https://github.com/BenMradB/React_Challenges/Tree_Data_Structures/blob/master/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true](https://github.com/BenMradB/React_Challenges/blob/master/Tree_Data_Structures/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true))
+[![App Screenshot]([https://github.com/BenMradB/React_Challenges/Tree_Data_Structures/blob/master/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true](https://github.com/BenMradB/React_Challenges/blob/master/Tree_Data_Structures/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true))](https://github.com/BenMradB/React_Challenges/blob/master/Tree_Data_Structures/public/images/UI_Where_Folders_Not_Expanded.PNG?raw=true)
 
 ### The UI with expanded folders
 ![App Screenshot](https://github.com/BenMradB/React_Challenges/Tree_Data_Structures/blob/master/public/images/UI_Where_Folders_R_Expanded.PNG?raw=true)
